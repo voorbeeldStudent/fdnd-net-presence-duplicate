@@ -1,6 +1,6 @@
 ---
 title: "FDND Visitekaartje"         # Same as repo name but with spaces and caps 
-description: ""                     # Max. 280 characters in description
+description: "Je maakt een voorbeeld visitekaartje na gebruikt daarbij semantische HTML, CSS voor de opmaak en Javascript voor functionaliteit."                     # Max. 280 characters in description
 semester: 1                         # Please choose only one semester
 sprint: 1                           # Please choose only one sprint
 support-level: 2                    # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
