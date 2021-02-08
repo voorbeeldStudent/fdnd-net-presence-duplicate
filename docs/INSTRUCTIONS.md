@@ -47,7 +47,15 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 Volg onderstaand stappenplan binnen de development-lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
 
 ### Analyseren
+Je hebt een talk bijgewoond en/of bovenstaande artikelen over [kleur en beeld](#kleur-en-beeld) gelezen. Om straks op een goede manier te werk te kunnen gaan is het handig om eerst te inventariseren welke uitgangspunten je wilt gebruiken voor het ontwerpen en ontwikkelen van jouw eigen visitekaartje. 
 
+Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf daarbij waarom juist die kleur(en). Wat wil je uitstralen? Met welk gevoel bekijken mensen jouw online visitekaartje?
+
+Bepaal nu of je een afbeelding op jouw visitekaartje wilt opnemen. Wordt het een échte foto of een avatar? Of een foto waarin je iets minder herkenbaar in beeld komt? Welk beeld moeten bezoekers van jou hebben na het bekijken van jouw online visitekaartje?
+
+Bepaal welk(e) lettertype(n) je wilt gebruiken. Er staat hier boven een goede bron die je kunt gebruiken bij [Cascading StyleSheets (CSS)](#cascading-styleSheets) Maak een lijstje met vijf lettertypes die je mooi vindt, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
+
+Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. Na bovenstaande stappen zorgvuldig doorlopen te hebben ga je verder naar de volgende fase. 
 
 ### Ontwerpen
 
