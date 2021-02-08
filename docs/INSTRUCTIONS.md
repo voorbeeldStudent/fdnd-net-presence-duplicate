@@ -1,4 +1,4 @@
-![Visitekaartje](VisitekaartjeChrome.png "Visitekaartje")
+![Visitekaartje](VisitekaartjeDuplicate.jpg "Visitekaartje")
 
 # Net Presence
 Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in HTML, de opmaak in CSS en de functionaliteit in Javascript aan te passen en naar je had te zetten.
@@ -44,21 +44,20 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 - [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
 ## Werkwijze
-Instructies over hoe te werk gaan, verder uitgewerkt in [Stappenplan](todo.md)  
-(In meer of mindere mate sturing afhankelijk van het niveau van de taak)
+Volg onderstaand stappenplan binnen de development-lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
+
+### Analyseren
+
+
+### Ontwerpen
+
+### Bouwen
+
+### Integreren
+
+### Testen
 
 ## Criteria
 Definitions of done
-
-## Niveau van deze taak
-
-|   | Scaffolding | Description |
-| ---: | :----   | :--- |
-| a | Example | Uitgewerkt voorbeeld |
-| b | Duplicate | Immitatietaak |
-| c | Experiment | Taak zonder een specifiek doel |
-| d | Extension | Aanvultaak |
-| e | Autonomous | Taak zonder ondersteuning |
-```
 
 
