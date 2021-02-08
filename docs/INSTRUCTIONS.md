@@ -21,6 +21,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 - [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
 - [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
 - [Unsplash](https://unsplash.com/)
+- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
 - [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
 
 ### HyperText Markup Language (HTML)
@@ -32,7 +33,6 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 - [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [What the flexbox? @ Wes Bos](https://flexbox.io/)
 - [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
-- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
 - [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
 
 ### Javascript
@@ -53,7 +53,7 @@ Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf 
 
 Bepaal nu of je een afbeelding op jouw visitekaartje wilt opnemen. Wordt het een échte foto of een avatar? Of een foto waarin je iets minder herkenbaar in beeld komt? Welk beeld moeten bezoekers van jou hebben na het bekijken van jouw online visitekaartje?
 
-Bepaal welk(e) lettertype(n) je wilt gebruiken. Er staat hier boven een goede bron die je kunt gebruiken bij [Cascading StyleSheets (CSS)](#cascading-styleSheets) Maak een lijstje met vijf lettertypes die je mooi vindt, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
+Bepaal welk(e) lettertype(n) je wilt gebruiken. Maak een lijstje met vijf lettertypes die je mooi vindt, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
 
 Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. Na bovenstaande stappen zorgvuldig doorlopen te hebben ga je verder naar de volgende fase. 
 
