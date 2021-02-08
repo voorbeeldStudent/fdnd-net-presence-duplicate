@@ -47,6 +47,18 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 Volg onderstaand stappenplan binnen de development-lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
 
 ### Analyseren
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
+
+Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
+1. een aantal ontwerpbeslissingen nemen op basis van de uitleg
+2. die beslissingen inbouwen in het bestaande visitekaartje
+3. jouw visitekaartje publiceren via Github pages
+4. het visitekaartje testen op klasgenoten
+5. het proces documenteren in de [README.md](../README.md)
+
+### Ontwerpen
+*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
 Je hebt een talk bijgewoond en/of bovenstaande artikelen over [kleur en beeld](#kleur-en-beeld) gelezen. Om straks op een goede manier te werk te kunnen gaan is het handig om eerst te inventariseren welke uitgangspunten je wilt gebruiken voor het ontwerpen en ontwikkelen van jouw eigen visitekaartje. 
 
 Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf daarbij waarom juist die kleur(en). Wat wil je uitstralen? Met welk gevoel bekijken mensen jouw online visitekaartje?
@@ -55,17 +67,30 @@ Bepaal nu of je een afbeelding op jouw visitekaartje wilt opnemen. Wordt het een
 
 Bepaal welk(e) lettertype(n) je wilt gebruiken. Maak een lijstje met vijf lettertypes die je mooi vindt, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
 
-Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. Na bovenstaande stappen zorgvuldig doorlopen te hebben ga je verder naar de volgende fase. 
+Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. De titel is de rol die je jezelf toebedeelt op internet, het kan serieus maar ook grappig zijn. Bedenk hoe je wilt overkomen op bezoekers van jouw visitekaartje. De introductietekst bevat een kort motto. Wat vind jij belangrijk?
 
-### Ontwerpen
+Normaliter neem je bovenstaande ontwerpbeslissingen en ontwerp je het visitekaartje in een tool als [https://www.figma.com/](https://www.figma.com/). Omdat we een *duplicate* taak uitvoeren houden we het bij een schets: schets met potlood, fineliner en een shader het visitekaartje. Je kunt het kant-en-klare visitekaartje van de *example* leertaak gebruiken. Schets het visitekaartje na en noteer jouw ontwerpbeslissingen.
+
+Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je precies wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
 
 ### Bouwen
+*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+
+Begin met het aanpassen van het .css bestand. Alle kleuren in een webpagina (achtergrond, tekst, randen, schaduwen etc) worden vastgelegd in CSS. Neem de tijd voor deze stap en zorg dat je het CSS bestand begrijpt.
+
+Stap voor stap geselecteerde elementen aanpassen
 
 ### Integreren
+*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+
+publiceren via gh-pages (wordt dit gekopieerd?)
 
 ### Testen
+*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer wat ze er van vinden. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
 
 ## Criteria
-Definitions of done
+Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de [README.md](../README.md) in jouw *fork* van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
 
 
