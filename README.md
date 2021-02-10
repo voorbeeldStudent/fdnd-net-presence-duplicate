@@ -5,6 +5,7 @@
 <!-- Add a link to your live demo in Github Pages 🌐-->
 ![Placeholder voor visitekaartje](https://via.placeholder.com/900x600 "Visitekaartje")  
 <!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
+[Bekijk visitekaartje]()
 
 ## Inhoudsopgave
 
