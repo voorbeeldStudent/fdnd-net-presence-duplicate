@@ -1,7 +1,7 @@
 # Visitekaartje Voorbeeld Student
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
-![Placeholder voor visitekaartje](https://via.placeholder.com/900x600 "Visitekaartje")  
+![Placeholder voor visitekaartje](assets/visitekaartje-voorbeeld-student.png)  
 <!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
 [Bekijk visitekaartje](https://voorbeeldstudent.github.io/fdnd-net-presence-duplicate/)
 
