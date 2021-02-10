@@ -13,6 +13,14 @@ Ik heb via [coolors.co](https://coolors.co/0a2342-2ca58d-84bc9c-fffdf7-f46197) e
 ![Gekozen kleuren](./assets/colors.png)
 Ik denk dat ik Oxford Blue en Zomp wil gebruiken voor de gradient. Floral white als tekstkleur en misschien een highlight in Violet Red. De achtergrond mag zakelijk, betrouwbaar en wat serieuzer overkomen, vandaar blauw en groen tinten. Het roze voor de highlights laat een speels, inventief karakter zien.
 
+Als afbeelding wil ik mijn avatar gebruiken, ik vind het niet prettig foto's van mijzelf op internet te publiceren. Ik ga bij mijn avatar proberen om een achtergrond verloop van wit naar roze te maken.
+
+Het lettertype laat ik staan, lettertypen zonder schreef zijn op internet prima te lezen.
+
+Als titel kies ik voor *Frontend Designer* omdat ik die achtergrond in mijn MBO opleiding grafische vormgeving heb. Als motto kies ik voor: ```...```
+
+Hieronder mijn schets:
+![Schets](./assets/schets.png)
 
 
 ## Ontvangen Feedback
