@@ -59,7 +59,7 @@ button:focus {
   background:#84BC9C;
 }
 button:focus svg {
-  stroke: #F46197;
+  stroke: #fff;
 }
 
 svg {
