@@ -1,5 +1,5 @@
 > Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-# Visitekaartje {naam student} 
+# Visitekaartje Voorbeeld Student
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 ![Placeholder voor visitekaartje](https://via.placeholder.com/900x600 "Visitekaartje")  
