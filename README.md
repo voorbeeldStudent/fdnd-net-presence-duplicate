@@ -12,15 +12,12 @@
 - [Titel](#titel)
   * [Beschrijving](#description)
   * [Kenmerken](#kenmerken)
-  * [Installatie](#installation)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Kenmerken
 
-## Installatie
 
-## Gebruik
 
 ## Bronnen
 
