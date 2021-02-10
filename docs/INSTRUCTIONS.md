@@ -113,17 +113,21 @@ NB: In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De decl
 ### Integreren
 *In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
 
-klik op ‘Settings’
+Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt lastig maar is heel eenvoudig met Github pages (gh-pages).
 
-scroll naar gh-pages
+Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet)
 
-selecteer de ‘master’ branch
+Scroll helemaal naar beneden, vlak boven *Danger Zone* staat het kopje **Github Pages** en dat is precies waar wij naar op zoek zijn. Als het goed is zie je hetzelfde als in onderstaande screenshot:
 
-bekijk in de browser
+![Github Pages](./gh-pages1.png)
 
-publiceren via gh-pages (wordt dit gekopieerd?)
+Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
 
+![Github Pages](./gh-pages2.png)
 
+Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-net-presence-duplicate/](https://username.github.io/fdnd-net-presence-duplicate/).
+
+Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
 
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
