@@ -19,7 +19,7 @@ Het lettertype laat ik staan, lettertypen zonder schreef zijn op internet prima 
 Als titel kies ik voor *Frontend Designer* omdat ik die achtergrond in mijn MBO opleiding grafische vormgeving heb. Als motto kies ik voor: ```...```
 
 Hieronder mijn schets:
-![Schets](./assets/schets.png)
+![Schets](./assets/schets.jpg)
 
 
 ## Ontvangen Feedback
