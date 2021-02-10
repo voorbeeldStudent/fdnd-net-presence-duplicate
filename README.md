@@ -7,20 +7,8 @@
 <!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
 [Bekijk visitekaartje]()
 
-## Inhoudsopgave
+## Ontwerpkeuzes
 
-- [Titel](#titel)
-  * [Beschrijving](#description)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+## Ontvangen Feedback
 
-## Kenmerken
 
-## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
