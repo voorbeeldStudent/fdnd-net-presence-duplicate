@@ -49,7 +49,7 @@ button {
   width:2.5rem;
   height:2.5rem;
   transform: scale(.8);
-  background: rgba(0,239,255,1);
+  background: #F46197;
   border-radius:50%;
   padding:.25rem;
   transition:.25s;
@@ -59,7 +59,7 @@ button:focus {
   background:#202592;
 }
 button:focus svg {
-  stroke: rgba(0,239,255,1);
+  stroke: #F46197;
 }
 
 svg {
