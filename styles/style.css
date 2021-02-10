@@ -56,14 +56,14 @@ button {
 }
 button:focus {
   outline:none;
-  background:#202592;
+  background:#84BC9C;
 }
 button:focus svg {
   stroke: #F46197;
 }
 
 svg {
-  stroke: #4e54c8;
+  stroke: #fff;
   position: absolute;
   top:calc(1.25rem - 12px);
   left:calc(1.25rem - 12px);
