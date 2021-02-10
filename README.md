@@ -9,6 +9,10 @@
 ## Ontwerpkeuzes
 *Documenteer hier de ontwerpkeuzes die je hebt gemaakt*
 
+Ik heb via [coolors.co](https://coolors.co/0a2342-2ca58d-84bc9c-fffdf7-f46197) een mooi kleurenpalet samengesteld.
+![Gekozen kleuren](./assets/colors.png)
+Ik denk dat ik Oxford Blue en Zomp wil gebruiken voor de gradient. Floral white als tekstkleur en misschien een highlight in Violet Red.
+
 ## Ontvangen Feedback
 *Welke feedback heb je ontvangen en wat heb je ermee gedaan?*
 
