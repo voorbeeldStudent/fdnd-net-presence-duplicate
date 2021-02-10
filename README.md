@@ -7,7 +7,7 @@
 [Bekijk visitekaartje]()
 
 ## Ontwerpkeuzes
-*Documenteer hier de ontwerpkeuzes die je hebt gaamkt*
+*Documenteer hier de ontwerpkeuzes die je hebt gemaakt*
 
 ## Ontvangen Feedback
 *Welke feedback heb je ontvangen en wat heb je ermee gedaan?*
